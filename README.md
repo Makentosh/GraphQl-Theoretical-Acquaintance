@@ -1,6 +1,8 @@
 # GraphQl-Theoretical-Acquaintance
 
-Graphql & Apollo-Server
+Graphql & Apollo-Server 
+
+DB Prisma
 
 Course link
 
